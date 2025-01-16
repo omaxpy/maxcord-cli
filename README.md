@@ -7,14 +7,14 @@ Python library to easily initialize discord bot and cogs.
 
 # Documentation
 
-Create base files
+<b>Create base files</b>
 
 ```maxcord-cli create```
 
 This will create a main.py that automatically load cogs and start the bot, along with a .env and a cogs folder.
 
 
-Create a cog
+<b>Create a cog</b>
 
 ```maxcord-cli make [name]```
 
