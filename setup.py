@@ -8,7 +8,7 @@ with open(path.join(working_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name="maxcord-cli",
-    version="0.0.1",
+    version="0.0.3",
     packages=find_packages(),
     entry_points={
         "console_scripts": [
@@ -17,6 +17,7 @@ setup(
     },
     install_requires=[],
     description="CLI for easy discord cogs creation.",
+    long_description = long_description,
     author="omaxpy",
     author_email="moukasland@gmail.com",
     url="https://github.com/omaxpy/maxcord-cli",
