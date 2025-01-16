@@ -19,7 +19,7 @@ setup(
     description="CLI for easy discord cogs creation.",
     author="omaxpy",
     author_email="moukasland@gmail.com",
-    url="",
+    url="https://github.com/omaxpy/maxcord-cli",
     classifiers=[
         "Programming Language :: Python :: 3",
     ],
